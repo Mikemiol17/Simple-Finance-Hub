@@ -1,0 +1,12 @@
+# Ignore local environment / secrets
+/db.php
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# If you later add Composer
+/vendor/
